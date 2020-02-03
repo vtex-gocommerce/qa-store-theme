@@ -7,6 +7,85 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [3.23.1] - 2020-01-27
+### Fixed
+- Use default `minicart.v2` from `vtex.minicart`.
+
+## [3.23.0] - 2020-01-27
+### Added
+- `store.not-found#product` block.
+
+## [3.22.0] - 2020-01-23
+### Added
+- `product-bookmark` blocks.
+
+## [3.21.2] - 2020-01-22
+### Fixed
+- Layout on search pages with few results but a big filter sidebar.
+
+## [3.21.1] - 2019-12-27
+### Fixed
+- Use docs builder.
+
+## [3.21.0] - 2019-12-20
+### Added
+- `showValueNameForImageVariation` to `sku-selector`.
+
+### Changed
+- Remove product-identifier.
+
+## [3.20.2] - 2019-12-19
+### Fixed
+- Menu links and layout
+
+## [3.20.1] - 2019-12-18
+### Changed
+- Use `styles-builder@2.x`.
+
+## [3.20.0] - 2019-12-17
+### Changed
+- Use new flexible `minicart.v2` and `add-to-cart-button`.
+
+### Added
+- Custom CSS styles for `product-identifier`.
+
+## [3.20.0-beta.0] - 2019-12-11
+
+## [3.20.0-beta] - 2019-12-06
+
+## [3.19.2] - 2019-12-16
+### Fixed
+- `minItemsPerPage` prop in `shelf#home` block.
+
+## [3.19.1] - 2019-12-03
+
+## [3.18.2] - 2019-12-03
+### Fixed
+- Add missing dependencies
+
+## [3.18.1] - 2019-11-11
+### Fixed
+- Use the proper API to space SKU Selector
+
+## [3.18.0] - 2019-11-11
+### Fixed
+- Product page spacing issues.
+
+### Added
+- Product description.
+
+## [3.17.2] - 2019-11-08
+### Added
+- Use `skusFilter` `FIRST_AVAILABLE` value.
+
+## [3.17.1] - 2019-11-06
+### Fixed
+- Remove usage of deprecated selectors.
+
+## [3.17.0] - 2019-11-06
+### Changed
+- PreventRouteChange to `true`.
+
 ## [3.16.2] - 2019-10-17
 
 ### Changed
